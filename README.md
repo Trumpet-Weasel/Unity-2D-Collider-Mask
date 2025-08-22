@@ -16,4 +16,4 @@ A Unity project is attached showcasing two examples of where this script can be 
 <li>TARDIS Effect - A demo containing a box that is larger on the inside than it is on the outside. <br>
 </ul>
 
-I threw this together for a personal project, but decided to put it on Github in case anybody else might find it useful. Hope you find a cool way to use this!
+I threw this together for a personal project, but decided to put it on Github hoping somebody else would find it useful. Hope you find a cool way to use this!
