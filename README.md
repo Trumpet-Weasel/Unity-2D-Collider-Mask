@@ -10,7 +10,7 @@ The script takes three different colliders: <br>
 <li>Output Collider - The collider that the masked collider is output to. <br>
 </ul>
 
-A Unity project is attached showcasing two examples of where this script can be used: <br>
+The script is kind of bare bones on it's own, but can be used to create some pretty cool stuff. I uploaded a Unity Project (ColliderMaskDemos) showcasing two examples of projects where the script could be used: <br>
 <ul>
 <li>Magic Bridge - A platformer demo where you need to use a "magic bridge" to get through a barrier. <br>
 <li>TARDIS Effect - A demo containing a box that is larger on the inside than it is on the outside. <br>
