@@ -11,8 +11,8 @@ The script takes three different colliders: <br>
 </ul>
 
 A Unity project is attached showcasing two examples of where this script can be used: <br>
-
-Magic Bridge - A platformer demo where you need to use a "magic bridge" to get through a barrier. <br>
-TARDIS Effect - A demo containing a box that is larger on the inside than it is on the outside. <br>
-
+<ul>
+<li>Magic Bridge - A platformer demo where you need to use a "magic bridge" to get through a barrier. <br>
+<li>TARDIS Effect - A demo containing a box that is larger on the inside than it is on the outside. <br>
+</ul>
 I threw this together for a personal project, but decided to put it on Github in case anybody else found it useful. Hope you find a cool way to use this!
