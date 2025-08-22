@@ -4,9 +4,11 @@ A script that allows for the masking of a PolygonCollider2D in the Unity game en
 This is a small script I threw together that uses <a href="https://github.com/AngusJohnson/Clipper2">Angus Johnsons Clipper2 Library</a> to mask a PolygonCollider2D.
 
 The script takes three different colliders: <br>
-Subject Collider - The base collider that represents the full collider. <br>
-Clipping Collider - The collider that acts as a mask for the subject collider. <br>
-Output Collider - The output of the mask. <br>
+<ul>
+<li>Subject Collider - The base collider that represents the full collider. <br>
+<li>Clipping Collider - The collider that acts as a mask for the subject collider. <br>
+<li>Output Collider - The output of the mask. <br>
+</ul>
 
 A Unity project is attached showcasing two examples of where this script can be used: <br>
 
