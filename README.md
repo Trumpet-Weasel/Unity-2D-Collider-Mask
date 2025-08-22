@@ -7,7 +7,7 @@ The script takes three different colliders: <br>
 <ul>
 <li>Subject Collider - The base collider that represents the full collider. <br>
 <li>Clipping Collider - The collider that acts as a mask for the subject collider. <br>
-<li>Output Collider - The output of the mask. <br>
+<li>Output Collider - The collider that the masked collider is output to. <br>
 </ul>
 
 A Unity project is attached showcasing two examples of where this script can be used: <br>
