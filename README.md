@@ -6,8 +6,8 @@ This is a small script I threw together that uses <a href="https://github.com/An
 The script takes three to masking collider:
 
 The script takes three different colliders:
-Subject Collider - The base collider that represents the full collider.
-Clipping Collider - The collider that acts as a mask for the subject collider.
-Output Collider - The output of the mask.
+Subject Collider - The base collider that represents the full collider. "\n"
+Clipping Collider - The collider that acts as a mask for the subject collider. "\n"
+Output Collider - The output of the mask. "\n"
 
-A Unity project is attache
+A Unity project is attached
