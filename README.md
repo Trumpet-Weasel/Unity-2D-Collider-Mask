@@ -1,7 +1,7 @@
 # Unity-2D-Collider-Mask
 A script that allows for the masking of a PolygonCollider2D in the Unity game engine. Much like a <a href="https://docs.unity3d.com/ScriptReference/SpriteMask.html">sprite mask</a>.
 
-The script uses <a href="https://github.com/AngusJohnson/Clipper2">Angus Johnsons Clipper2 Library</a> to get the intersection/difference of two intersecting colliders, and output's it to another collider.
+The script uses <a href="https://github.com/AngusJohnson/Clipper2">Angus Johnsons Clipper2 Library</a> to get the intersection/difference of two intersecting polygon collider's, and output's the result to another polygon collider.
 
 The script takes three different colliders: <br>
 <ul>
