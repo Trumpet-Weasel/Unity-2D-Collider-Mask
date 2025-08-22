@@ -1,7 +1,7 @@
 # Unity-2D-Collider-Mask
-A script that allows for the masking of a PolygonCollider2D in the Unity game engine. Much like a <a href="https://docs.unity3d.com/ScriptReference/SpriteMask.html">sprite mask.</a>.
+A script that allows for the masking of a PolygonCollider2D in the Unity game engine. Much like a <a href="https://docs.unity3d.com/ScriptReference/SpriteMask.html">sprite mask</a>.
 
-This is a script that uses <a href="https://github.com/AngusJohnson/Clipper2">Angus Johnsons Clipper2 Library</a> to mask a PolygonCollider2D.
+The script uses <a href="https://github.com/AngusJohnson/Clipper2">Angus Johnsons Clipper2 Library</a> to get the intersection/difference of two intersecting colliders, and output's it to another collider.
 
 The script takes three different colliders: <br>
 <ul>
@@ -13,5 +13,6 @@ The script takes three different colliders: <br>
 A Unity project is attached showcasing two examples of where this script can be used: <br>
 
 Magic Bridge - A platformer demo where you need to use a "magic bridge" to get through a barrier. <br>
-TARDIS Effect - A demo containing a box that is larger on the inside than it is on the outside.
+TARDIS Effect - A demo containing a box that is larger on the inside than it is on the outside. <br>
 
+I threw this together for a personal project, but decided to put it on Github in case anybody else found it useful. Hope you find a cool way to use this!
